@@ -1,0 +1,18 @@
+
+
+let username = 'narendran'
+console.log (typeof username) ;
+
+let organization = "Softeon"
+console.log(typeof organization);
+
+let contactnumber=9940444949
+console.log( typeof contactnumber);
+
+let knowsautomation=true
+console.log(typeof knowsautomation);
+
+let usesplaywright
+console.log(typeof usesplaywright);
+
+
